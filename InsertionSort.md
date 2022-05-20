@@ -18,6 +18,8 @@ Dizi sıralandıktan sonra 18 sayısı average case kapsamına girer.
 
 
 
+
+
 - Örnek 2
 
 1- [7,3,5,8,2,9,4,15,6]
